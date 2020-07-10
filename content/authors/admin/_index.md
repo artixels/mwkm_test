@@ -1,7 +1,6 @@
 ---
 # Display name
-title: Kin-Ming Wong
-title: (Mike Wong)
+title: K.M. Wong (Mike Wong)
 
 # Username (this should match the folder name)
 authors:
