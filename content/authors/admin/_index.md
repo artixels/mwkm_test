@@ -1,6 +1,7 @@
 ---
 # Display name
-title: Kin-Ming Wong \n (Mike Wong)
+title: Kin-Ming Wong
+title: (Mike Wong)
 
 # Username (this should match the folder name)
 authors:
@@ -14,7 +15,8 @@ role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-- name: School of Creative Media \n City University of Hong Kong
+- name: School of Creative Media
+- name: City University of Hong Kong
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
